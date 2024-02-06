@@ -3,8 +3,6 @@ Projeto secundário.
 
 Aqui vai ficar as observações do codigo
 
-Tarefa _class
-
 =======================EXEMPLO DE METODOS==================================
 
 1º 
@@ -15,7 +13,7 @@ Tarefa _class
 	       cliente.setEndereco("Rua teste"); // SEGUIDO DO COMANDO
 ----------------------------------------------------------------------------------------------------------------------------------------
 2º
-	       public void cadastrarEndereco() {  
+	       public void cadastrarEndereco(){  
  	       this.endereco= "Rua teste 2";
       	       }
 
