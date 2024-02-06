@@ -5,15 +5,12 @@
 
             Cliente cliente = new Cliente();
 
-            cliente.setCodigo(123);//Primeiro exemplo não precisa modificar nada na class clinte
+            cliente.setCodigo(123);
             cliente.setEndereco("Rua teste");
-
-            //cliente.cadastrarEndereco(); //Segundo exemplo adicionar metodos
 
             System.out.println(cliente.getCodigo());
             System.out.println(cliente.getEndereco());
 
-            //System.out.println(cliente.getValorTotal());//Terceiro exemplo
 
         }
     }

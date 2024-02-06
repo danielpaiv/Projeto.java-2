@@ -29,20 +29,6 @@
         public void setEndereco(String endereco) {
             this.endereco = endereco;
         }
-//        public void cadastrarEndereco(String endereco){ //primeiro exemplo
-//            setEndereco(endereco);
-//        }
-//
-//
-//        public void cadastrarEndereco(){  //Segundo exemplo
-//            this.endereco= "Rua teste 2";
-//        }
-//
-//        public int getValorTotal(){ //Terceiro exemplo
-//            return 20;
-//        }
-
-
 
 
     }

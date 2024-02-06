@@ -1,6 +1,6 @@
     public class ItenVenda {
 
-    private int quantidade;
+        private int quantidade;
 
     }
 
