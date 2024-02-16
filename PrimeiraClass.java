@@ -7,6 +7,7 @@ public class PrimeiraClass {
         Fucionario fucionario = new Fucionario();
         ItenVenda itenVenda = new ItenVenda();
         Produto produto = new Produto();
+        Venda venda = new Venda();
 
         cliente.setCodigo(123);
         cliente.setEndereco("Rua teste");
@@ -14,6 +15,7 @@ public class PrimeiraClass {
         fucionario.setEndereco("Rua dois");
         itenVenda.setQuantidade(5);
         produto.setNomeProduto("Geladeira");
+        venda.setCodigoVenda(2255);
 
         System.out.println(cliente.getCodigo());
         System.out.println(cliente.getEndereco());
@@ -21,6 +23,7 @@ public class PrimeiraClass {
         System.out.println(fucionario.getEndereco());
         System.out.println(itenVenda.getQuantidade());
         System.out.println(produto.getNomeProduto());
+        System.out.println(venda.getCodigoVenda());
 
     }
 }
