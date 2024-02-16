@@ -28,5 +28,4 @@ Tarefa _class
 	     
                      System.out.println(cliente.getValorTotal()); // SEGUIDO DO COMANDO
 
-       teste 1 
-	teste 2
+       
