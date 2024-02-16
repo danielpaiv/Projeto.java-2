@@ -1,7 +1,7 @@
 public class PrimeiraClass {
 
     public static void main(String args[]) {
-        System.out.println("Ben vindo");
+        System.out.println("Ben vindo ao sistema");
 
         Cliente cliente = new Cliente();
         Fucionario fucionario = new Fucionario();
