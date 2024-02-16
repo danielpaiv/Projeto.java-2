@@ -10,6 +10,7 @@ public class PrimeiraClass {
         Venda venda = new Venda();
 
         cliente.setCodigo(123);
+        cliente.setNome("Sandra");
         cliente.setEndereco("Rua teste");
         fucionario.setNome("Daniel");
         fucionario.setEndereco("Rua dois");
@@ -18,6 +19,7 @@ public class PrimeiraClass {
         venda.setCodigoVenda(2255);
 
         System.out.println(cliente.getCodigo());
+        System.out.println(cliente.getNome());
         System.out.println(cliente.getEndereco());
         System.out.println(fucionario.getNome());
         System.out.println(fucionario.getEndereco());
